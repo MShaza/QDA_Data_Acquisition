@@ -1,0 +1,10 @@
+# Ignore the large data storage
+qdarchive_storage/
+
+# Ignore Python environment and cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignore local database if it's not the final submission one
+# But MAKE SURE 23262136-seeding.db is NOT ignored!
